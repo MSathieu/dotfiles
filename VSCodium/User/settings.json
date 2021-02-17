@@ -1,0 +1,43 @@
+{
+  "clangd.arguments": [
+    "--header-insertion=never"
+  ],
+  "editor.dragAndDrop": false,
+  "editor.folding": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.glyphMargin": false,
+  "editor.renderWhitespace": "none",
+  "editor.selectionClipboard": false,
+  "editor.smoothScrolling": true,
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "extensions.autoUpdate": false,
+  "files.enableTrash": false,
+  "files.exclude": {
+    "**/*.a": true,
+    "**/*.d": true,
+    "**/*.o": true
+  },
+  "files.hotExit": "off",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "git.confirmSync": false,
+  "git.detectSubmodulesLimit": 25,
+  "git.showCommitInput": false,
+  "git.suggestSmartCommit": false,
+  "search.quickOpen.includeHistory": false,
+  "terminal.integrated.scrollback": 500,
+  "terminal.integrated.showExitAlert": false,
+  "update.mode": "manual",
+  "workbench.commandPalette.history": 0,
+  "workbench.list.automaticKeyboardNavigation": false,
+  "workbench.list.smoothScrolling": true,
+  "workbench.quickOpen.closeOnFocusLost": false,
+  "workbench.settings.enableNaturalLanguageSearch": false,
+  "workbench.startupEditor": "none"
+}

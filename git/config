@@ -1,0 +1,11 @@
+[user]
+  name = MSathieu
+  email = 18145111+MSathieu@users.noreply.github.com
+[pull]
+  ff = only
+[diff]
+  submodule = log
+[submodule]
+  recurse = true
+[advice]
+  detachedHead = false
